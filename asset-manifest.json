@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-bends-app-bootstrap/static/css/main.b6a230b1.chunk.css",
+    "main.js": "/react-bends-app-bootstrap/static/js/main.1f8ab018.chunk.js",
+    "main.js.map": "/react-bends-app-bootstrap/static/js/main.1f8ab018.chunk.js.map",
+    "runtime-main.js": "/react-bends-app-bootstrap/static/js/runtime-main.bcd85ae2.js",
+    "runtime-main.js.map": "/react-bends-app-bootstrap/static/js/runtime-main.bcd85ae2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-bends-app-bootstrap/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8b095a28.chunk.js": "/react-bends-app-bootstrap/static/js/2.8b095a28.chunk.js",
+    "static/js/2.8b095a28.chunk.js.map": "/react-bends-app-bootstrap/static/js/2.8b095a28.chunk.js.map",
+    "index.html": "/react-bends-app-bootstrap/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-bends-app-bootstrap/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b6a230b1.chunk.css.map": "/react-bends-app-bootstrap/static/css/main.b6a230b1.chunk.css.map",
+    "static/js/2.8b095a28.chunk.js.LICENSE.txt": "/react-bends-app-bootstrap/static/js/2.8b095a28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd85ae2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8b095a28.chunk.js",
+    "static/css/main.b6a230b1.chunk.css",
+    "static/js/main.1f8ab018.chunk.js"
+  ]
+}
